@@ -1,0 +1,7 @@
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\obj\Debug\UnitTestBooking.csprojResolveAssemblyReference.cache
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\bin\Debug\UnitTestBooking.dll
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\bin\Debug\UnitTestBooking.pdb
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\bin\Debug\Business.dll
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\bin\Debug\Business.pdb
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\obj\Debug\UnitTestBooking.dll
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\SoftwareDev2\Coursework2\HolidayManagement\UnitTestBooking\obj\Debug\UnitTestBooking.pdb
